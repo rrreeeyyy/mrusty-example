@@ -1,0 +1,8 @@
+[package]
+name = "mrusty-example"
+version = "0.1.0"
+authors = ["Yoshikawa Ryota <yoshikawa@rrreeeyyy.com>"]
+
+[dependencies]
+mrusty = "*"
+getopts = "*"
